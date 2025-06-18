@@ -127,7 +127,7 @@ function App() {
 
             <button
               className="w-14 h-14 bg-blue-950 rounded-full flex justify-center items-center"
-              onClick={() => window.open("http://wa.me/8072747872?text=heelo", "_blank")}
+              onClick={() => window.open("http://wa.me/+918072747872?text=heelo", "_blank")}
             >
               <img
                 src="https://cdn-icons-png.flaticon.com/128/4423/4423697.png"
