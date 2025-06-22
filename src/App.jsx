@@ -5,6 +5,7 @@ import { Typewriter } from "react-simple-typewriter";
 import About from "./components/About";
 import Skills from "./components/Skills";
 import Education from "./components/Education";
+import Work from "./components/Work";
 
 function App() {
   return (
@@ -154,13 +155,13 @@ function App() {
       </div>
 
       {/* Education */}
-      <div className="py-10 px-4 bg-indigo-300" id="education">
+      <div className="py-10 px-4 bg-indigo-300 " id="education">
         <Education />
       </div>
 
       {/* Work */}
       <div className="pb-10 px-4 h-[600px] pt-10 bg-indigo-950" id="work">
-            
+            <Work/>
       </div>
     </>
   );
