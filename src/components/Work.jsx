@@ -5,7 +5,7 @@ import health_care_project from "../assets/health_care_poject.jpg";
 import amazon_clone from "../assets/amazon_clone.jpg";
 import final_year_project from "../assets/final_year_project.jpg";
 import appointment from "../assets/appointment.jpg";
-
+import flipkart from "../assets/flipkart_clone.jpg"
 function Work() {
   const projects = [
     {
@@ -51,6 +51,13 @@ function Work() {
       description: "A full-stack appointment management system using MERN.",
       github: "https://github.com/laleeprakash/appointment",
     },
+    {
+      name : "Flipkart static page",
+      image:flipkart,
+      description:"A static flipkart page using html and css",
+      website:"https://laleeprakash.github.io/flipkart_clone/",
+      github:"https://github.com/laleeprakash/flipkart_clone"
+    }
   ];
 
   return (
