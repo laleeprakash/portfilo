@@ -6,6 +6,7 @@ import amazon_clone from "../assets/amazon_clone.jpg";
 import final_year_project from "../assets/final_year_project.jpg";
 import appointment from "../assets/appointment.jpg";
 import flipkart from "../assets/flipkart_clone.jpg"
+import portfilo from "../assets/portfilo.jpg"
 function Work() {
   const projects = [
     {
@@ -57,6 +58,13 @@ function Work() {
       description:"A static flipkart page using html and css",
       website:"https://laleeprakash.github.io/flipkart_clone/",
       github:"https://github.com/laleeprakash/flipkart_clone"
+    },
+     {
+      name : "Portfilo",
+      image:portfilo,
+      description:"A Portfilo Project using HTML , REACT JS AND TAILWIND CSS",
+      website:"https://portfilo-amber.vercel.app/",
+      github:"https://github.com/laleeprakash/portfilo"
     }
   ];
 
