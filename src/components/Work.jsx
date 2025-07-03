@@ -43,6 +43,7 @@ function Work() {
     {
       name: "Final Year Project",
       image: final_year_project,
+      website:"https://dinewith.netlify.app/",
       description: "A full-stack final year restaurant ordering application.",
       github: "https://github.com/laleeprakash/dine",
     },
