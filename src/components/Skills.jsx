@@ -4,7 +4,7 @@ function Skills() {
     { name: "ExpressJs", icon: "https://cdn-icons-png.flaticon.com/128/1126/1126012.png" },
     { name: "NodeJs", icon: "https://cdn-icons-png.flaticon.com/128/5968/5968322.png" },
     { name: "Tailwind CSS", icon: "https://cdn-icons-png.flaticon.com/128/732/732190.png" },
-    { name: "MongoDB", icon: "https://cdn-icons-png.flaticon.com/128/919/919836.png" },
+    { name: "SQL", icon: "https://cdn-icons-png.flaticon.com/128/919/919836.png" },
     { name: "HTML", icon: "https://cdn-icons-png.flaticon.com/128/732/732212.png" },
     { name: "CSS", icon: "https://cdn-icons-png.flaticon.com/128/732/732190.png" },
     { name: "JavaScript", icon: "https://cdn-icons-png.flaticon.com/128/5968/5968292.png" },
